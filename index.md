@@ -16,13 +16,16 @@ What would you like to do?
 [[Quit the lesson.]]</tw-passagedata><tw-passagedata pid="2" name="Continue with the lesson." tags="" position="251,485" size="100,100">Let&#39;s add an image to this story.
 
 [[No thank you]]
-[[Sure!]]</tw-passagedata><tw-passagedata pid="3" name="Quit the lesson." tags="" position="401,485" size="100,100">Thank you for your participation!
+[[Sure!]]</tw-passagedata><tw-passagedata pid="3" name="Quit the lesson." tags="" position="409,484" size="100,100">Thank you for your participation!
 
-[[Intro]]</tw-passagedata><tw-passagedata pid="4" name="No thank you" tags="" position="176,635" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="5" name="Sure!" tags="" position="326,635" size="100,100">To add an image, do the following:
+[[Intro]]</tw-passagedata><tw-passagedata pid="4" name="No thank you" tags="" position="176,635" size="100,100">[[Intro]] </tw-passagedata><tw-passagedata pid="5" name="Sure!" tags="" position="326,635" size="100,100">To add an image, do the following:
 Find an image online. Grab the URL. Cut and paste.
 &lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/0/02/Tweety.svg&quot; width=&quot;500&quot; height=&quot;300&quot; alt=&quot;Tweety&quot;&gt;
 
-&lt;audio src=&quot;https://www.bensound.com/bensound-music/bensound-ukulele.mp3&quot; autoplay&gt;</tw-passagedata></tw-storydata>
+&lt;audio src=&quot;https://www.bensound.com/bensound-music/bensound-ukulele.mp3&quot; autoplay&gt;
+
+[[Yes]]
+[[No]]</tw-passagedata><tw-passagedata pid="6" name="Yes" tags="" position="251,785" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="7" name="No" tags="" position="401,785" size="100,100">Double-click this passage to edit it.</tw-passagedata></tw-storydata>
 <script title="Twine engine code" data-main="harlowe">"use strict";var _slicedToArray=function(){return function(e,t){if(Array.isArray(e))return e;if(Symbol.iterator in Object(e))return function(e,t){var n=[],r=!0,a=!1,i=void 0;try{for(var o,s=e[Symbol.iterator]();!(r=(o=s.next()).done)&&(n.push(o.value),!t||n.length!==t);r=!0);}catch(e){a=!0,i=e}finally{try{!r&&s.return&&s.return()}finally{if(a)throw i}}return n}(e,t);throw new TypeError("Invalid attempt to destructure non-iterable instance")}}(),_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e};function _defineProperty(e,t,n){return t in e?Object.defineProperty(e,t,{value:n,enumerable:!0,configurable:!0,writable:!0}):e[t]=n,e}function _toConsumableArray(e){if(Array.isArray(e)){for(var t=0,n=Array(e.length);t<e.length;t++)n[t]=e[t];return n}return Array.from(e)}!function(){
 /**
  * @license almond 0.3.3 Copyright jQuery Foundation and other contributors.
